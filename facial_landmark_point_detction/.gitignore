@@ -71,3 +71,16 @@ Thumbs.db
 *.dll
 *.exe
 
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Makefile
+cmake_install.cmake
+install_manifest.txt
+CTestTestfile.cmake
+build*
+copy_sources.sh
+CMakeLists.txt.user
+dist*
+
+
